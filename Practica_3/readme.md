@@ -1,9 +1,14 @@
 # NTP: Práctica Final
 
-<aside>
-📇 Índice de contenido
 
-</aside>
+📇 Índice de contenido
+> - [NTP: Práctica Final](#ntp--pr-ctica-final)
+>  * [1. Integración con el entorno de desarrollo](#1-integraci-n-con-el-entorno-de-desarrollo)
+>  * [2. Valoración de la práctica](#2-valoraci-n-de-la-pr-ctica)
+    + [Ejercicio Conjunto](#ejercicio-conjunto)
+    + [Ejercicio List](#ejercicio-list)
+
+
 
 ## 1. Integración con el entorno de desarrollo
 
@@ -48,8 +53,5 @@ Al principio me ha costado un poco realizar algunos de los métodos recursivamen
 
 Respecto al diseño base, `sealed trait Lista[+A]` el digno más es una sofisticación que nos permite hacerla un supertipo. E.g: crear una lista de `Nothing`.
 
-<aside>
-👨🏻‍💻 Práctica realizada por **Pablo Jiménez** 
 
-<a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>
-</aside>
+> 👨🏻‍💻 Práctica realizada por **Pablo Jiménez**  <a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>

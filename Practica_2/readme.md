@@ -1,9 +1,11 @@
 # P2: programación funcional en Scala - recursisvidad
 
-<aside>
-📇 Índice de contenido
 
-</aside>
+> 📇 Índice de contenido
+> - [P2: programación funcional en Scala - recursisvidad](#p2--programaci-n-funcional-en-scala---recursisvidad)
+>  * [1. Integración con el entorno de desarrollo](#1-integraci-n-con-el-entorno-de-desarrollo)
+>  * [2. Valoración de la práctica](#2-valoraci-n-de-la-pr-ctica)
+
 
 ## 1. Integración con el entorno de desarrollo
 
@@ -40,8 +42,5 @@ Respecto a Scala, cuanto más se, más me gusta. He estado investigando sobre co
 
 Tambien me parece muy pertinente que siempre que se hacen algoritmos de búsqueda se compare su rendimiento con el de otros. Yo he comparado el genérico y el de Fibonacci con el método `find` incluido en Scala y una búsqueda lineal básica. Diría que la búsqueda genérica es la más rápida, por bastante diferencia cuando hay un número de elementos considerable.
 
-<aside>
-👨🏻‍💻 Práctica realizada por **Pablo Jiménez** 
 
-<a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>
-</aside>
+> 👨🏻‍💻 Práctica realizada por **Pablo Jiménez** <a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>
