@@ -49,5 +49,7 @@ Al principio me ha costado un poco realizar algunos de los métodos recursivamen
 Respecto al diseño base, `sealed trait Lista[+A]` el digno más es una sofisticación que nos permite hacerla un supertipo. E.g: crear una lista de `Nothing`.
 
 <aside>
-👨🏻‍💻 Práctica realizada por **Pablo Jiménez** <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="mailto:pablojjimenez0@gmail.com">
+👨🏻‍💻 Práctica realizada por **Pablo Jiménez** 
+
+<a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>
 </aside>

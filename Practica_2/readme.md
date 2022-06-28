@@ -41,5 +41,7 @@ Respecto a Scala, cuanto más se, más me gusta. He estado investigando sobre co
 Tambien me parece muy pertinente que siempre que se hacen algoritmos de búsqueda se compare su rendimiento con el de otros. Yo he comparado el genérico y el de Fibonacci con el método `find` incluido en Scala y una búsqueda lineal básica. Diría que la búsqueda genérica es la más rápida, por bastante diferencia cuando hay un número de elementos considerable.
 
 <aside>
-👨🏻‍💻 Práctica realizada por **Pablo Jiménez** <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="mailto:pablojjimenez0@gmail.com">
+👨🏻‍💻 Práctica realizada por **Pablo Jiménez** 
+
+<a href="mailto:pablojjimenez0@gmail.com"><img src="https://img.shields.io/badge/pablojjimenez0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pablojjimenez0@gmail.com"></a>
 </aside>
